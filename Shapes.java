@@ -10,11 +10,11 @@ public class Shapes {
          }
        
         // Task 2: Draw a regular shape many times
-        
-      for(int i = 0; i <=4; i++){  
-      turtle2.forward(100);
-      turtle2.right(90);
-      }
+        for(int x = 0; x <= 5; x++){
+        for(int i = 0; i <=4; i++){  
+         turtle2.forward(100);
+         turtle2.right(90);
+         }}
       
         
 
